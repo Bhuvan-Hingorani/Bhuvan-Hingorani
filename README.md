@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing a **Bachelor's degree in Computer Applications**  
-- 💼 Interning as an **AI Content Writer at Gao Tek**  
+- 🎓 Currently pursuing a **Master's degree in Computer Applications**
+- 🎓 Graduated **Bachelor's degree in Computer Applications**  
 - 💡 Enthusiast in **AI, Web Development, and Software Engineering**  
 - 🌱 Actively contributing to **open-source projects** and exploring new technologies  
 
