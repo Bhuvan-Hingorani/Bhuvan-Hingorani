@@ -1,51 +1,114 @@
-<h1 align="center">👋 Hi, I'm Bhuvan Hingorani</h1>
-<p align="center">Welcome to my GitHub! I'm a passionate developer and aspiring AI content writer intern at Gao Tek. I specialize in JavaScript, Python, and Java, and I'm always eager to learn and collaborate on innovative projects.</p>
+# 👋 Hi, I'm Bhuvan Hingorani
+
+🎓 MCA Student | 💻 Programming Enthusiast | 🌱 Freelance Developer  
+📍 India  
+
+I am a motivated MCA student currently in a strong learning and skill-building phase, with a solid academic background and a passion for **programming, software development, and real-world problem solving**. I focus on building practical projects and improving my skills through hands-on implementation.
 
 ---
 
-## 🚀 About Me
-- 🎓 Currently pursuing a **Master's degree in Computer Applications**
-- 🎓 Graduated **Bachelor's degree in Computer Applications**  
-- 💡 Enthusiast in **AI, Web Development, and Software Engineering**  
-- 🌱 Actively contributing to **open-source projects** and exploring new technologies  
+## 🧠 About Me
+
+- 🎓 Pursuing Master of Computer Applications (MCA)
+- 🏆 Strong academic background (CGPA: 9.06 in BCA)
+- 💡 Interested in software development, AI fundamentals, and web technologies
+- 🛠 Strong focus on project-based learning and clean coding practices
+- 🚀 Actively exploring freelance work, internships, and real-world projects
 
 ---
 
-## 🔧 Technologies & Tools
-| Languages | Tools | Frameworks | Databases |
-|-----------|-------|------------|-----------|
-| JavaScript | Git | React | MongoDB |
-| Python     | GitHub | Express.js | MySQL |
-| Java       | VS Code | Node.js | |
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+- Java
+- Python
+- JavaScript
+- C / C++
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### 🗄️ Databases & Tools
+- SQL
+- DBMS
+- MS Access
+- Git & GitHub
+
+### 📚 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Operating Systems
+- Artificial Intelligence (Fundamentals)
+- Computer Networks
+- Cybersecurity Basics
 
 ---
 
-## 📂 Featured Projects
-### [IRIS-VIRTUAL-ASSISTANT](https://github.com/Bhuvan-Hingorani/IRIS-VIRTUAL-ASSISTANT)
-> A personal virtual assistant built using JavaScript, designed to help with daily tasks and information retrieval.
+## 🚀 Projects
 
-### [COMPILER](https://github.com/Bhuvan-Hingorani/COMPILER)
-> A custom language compiler that allows programming using unique concepts, developed in Python.
+### 🛒 Retail Shop Management System
+- Desktop application using **VB.NET & MS Access**
+- Automates inventory management, billing, and customer records
+- Designed to reduce manual work and improve efficiency
 
-### [QuizApplication](https://github.com/Bhuvan-Hingorani/QuizApplication)
-> A simple quiz application demonstrating basic programming concepts, created with Java.
+### 🤖 IRIS – Virtual Assistant
+- JavaScript-based AI voice assistant
+- Uses speech recognition and text-to-speech modules
+- Executes user commands through voice input
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvan-Hingorani&show_icons=true&theme=radical" alt="Bhuvan's GitHub Stats" />
-</p>
-
----
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhuvan-hingorani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Bhuvan_Hingorani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://bhuvanhingorani.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
+### ☕ Java Applications
+- SGPA Calculator
+- Quiz Application
+- Shopping Cart System
+- Login & Authentication Module
+- Number Guessing Game  
+*(Built to practice OOP, event handling, and logic building)*
 
 ---
 
-<p align="center">Feel free to explore my repositories, contribute to open-source projects, or reach out for collaborations!</p>
+## 💼 Freelancing & Learning
+
+I am open to:
+- 💻 Freelance projects (small to medium scale)
+- 📊 Academic and mini projects
+- 🌐 Web development work
+- 🧩 Java and Python based applications
+
+My focus is on:
+- Clean and readable code
+- Clear communication
+- Timely delivery
+- Continuous improvement through learning
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 Winner – *Aavishkar Competition* (Gondwana University)
+- 🥇 Gold Medalist for Academic Excellence
+- 🎓 Best Student – BCA Batch (2022–2025)
+- 👨‍💼 Former President – Computer Club
+- 🌍 Represented University at State & National Level
+
+---
+
+## 📊 Goals
+
+- Strengthen problem-solving and logic building skills
+- Build more real-world and freelance-ready projects
+- Learn modern development tools and frameworks
+- Contribute to open-source projects in the future
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/bhuvan-hingorani
+- 🌐 Portfolio: https://bhuvanhingorani.com
+- 📧 Email: bhuvanhingorani187@gmail.com
+
+---
+
+⭐ *Thank you for visiting my GitHub profile! I’m always open to learning, collaboration, and new opportunities.*
